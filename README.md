@@ -5,7 +5,7 @@
 本文以10年为一个阶段（1966年前为一个阶段），通过词云图分析的方式来展现不同时期的主题方向，记录哪些曾经令人兴奋或激动的时刻。
 
 
-更多精彩内容请关注微信公众号：
 
-**“Python数据之道”**
-![](http://oqb5ftrdh.bkt.clouddn.com/17-5-24/36704020.jpg)
+欢迎关注个人微信公众号“Python数据之道”（ID：PyDataRoad）
+
+<img src="http://oqb5ftrdh.bkt.clouddn.com/17-6-14/55662557.jpg" width="240" height="240"/>
